@@ -7,9 +7,15 @@ url: ''
 baseurl: 
 
 # Title of the Site
+<<<<<<< HEAD
 title: Test theme deployment
 # Description of the Site
 description: Testing how to deploy a theme on github page.
+=======
+title: This is a test theme.
+# Description of the Site
+description: I am testing how to set up a theme for your github page.
+>>>>>>> 81220661878ef6e5cdf02ca3bdeab7e73846f5a4
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
