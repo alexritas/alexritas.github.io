@@ -7,9 +7,9 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: This is a test theme.
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: I am testing how to set up a theme for your github page.
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
